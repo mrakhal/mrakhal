@@ -3,11 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+mrakhal+%F0%9F%91%8B;TypeScript+%26+JavaScript+Developer;Swift+%26+iOS+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mochamadrakha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/mrakhal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://twitter.com/mrakhal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/mrakhalf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
   <a href="https://github.com/mrakhal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
@@ -24,7 +22,7 @@ I'm a passionate software developer with a love for building clean, performant, 
 
 - 🔭 &nbsp; Currently building full-stack web apps and iOS projects
 - 🌱 &nbsp; Always exploring new frameworks, design patterns, and best practices
-- 💬 &nbsp; Ask me about **TypeScript**, **React**, **Node.js**, or **Swift/SwiftUI**
+- 💬 &nbsp; Ask me about **TypeScript**, **React**, **Node.js**, or **Swift**
 - 🤝 &nbsp; Open to collaborating on interesting open-source projects
 - ⚡ &nbsp; Fun fact: I believe great code reads like a well-written story
 
@@ -42,10 +40,11 @@ I'm a passionate software developer with a love for building clean, performant, 
 ### Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-61DAFB?style=for-the-badge&logo=angular&logoColor=black" alt="Angular"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/UIKit-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="UIKit"/>
 </p>
 
 ### Tools & Platforms
@@ -56,6 +55,7 @@ I'm a passionate software developer with a love for building clean, performant, 
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Vitest-C21325?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
 </p>
 
@@ -78,7 +78,7 @@ I'm a passionate software developer with a love for building clean, performant, 
 | 📱 **Mobile** | Swift, SwiftUI, UIKit, Core Data |
 | 🗄️ **Databases** | PostgreSQL, MongoDB, Firebase, Redis |
 | 🚀 **DevOps** | Git, GitHub Actions, Docker, CI/CD |
-| 🧪 **Testing** | Jest, XCTest, Unit Testing, Integration Testing |
+| 🧪 **Testing** | Jest, Vitest, XCTest, Unit Testing, Integration Testing |
 
 ---
 
@@ -105,12 +105,8 @@ I'm a passionate software developer with a love for building clean, performant, 
 <!-- Replace 'your-repo-name' below with your actual repository names -->
 <div align="center">
 
-<a href="https://github.com/mrakhal/your-repo-name-1">
+<a href="https://github.com/mrakhal/Parking-Recognition-LBP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrakhal&repo=your-repo-name-1&theme=tokyonight&hide_border=true" />
-</a>
-&nbsp;
-<a href="https://github.com/mrakhal/your-repo-name-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrakhal&repo=your-repo-name-2&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -123,8 +119,8 @@ I'm a passionate software developer with a love for building clean, performant, 
 | 🏗️ Project | 🛠️ Tech | 📝 Description |
 |------------|---------|----------------|
 | 🌐 **Your Project Name** | TypeScript, React, Node.js | A full-stack web application with modern UI and robust API |
-| 📱 **Your iOS App** | Swift, SwiftUI | A native iOS app delivering a seamless mobile experience |
-| ⚡ **Your Next.js App** | TypeScript, Next.js, PostgreSQL | A server-side rendered app with dynamic data and great performance |
+| 📱 **Your iOS App** | Swift, SwiftUI, UIKit | A native iOS app delivering a seamless mobile experience |
+| ⚡ **Your Progressive Web App** | TypeScript, Next.js, Angular, PostgreSQL | A server-side rendered app with dynamic data and great performance |
 | 🔧 **Your API Service** | JavaScript, Node.js, MongoDB | A RESTful API service with comprehensive authentication |
 
 ---
